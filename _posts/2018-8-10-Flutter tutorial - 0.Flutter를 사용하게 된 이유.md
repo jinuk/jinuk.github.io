@@ -5,14 +5,14 @@ Flutter에 대한 전반적인 설명은
 이 글에서는 저의 경험을 바탕으로 **주관적으로** Flutter를 사용하게 된 이유를 설명하겠습니다.  
   
 ## 1. Flutter?  
-![image0](https://www.github.com/jinuk/jinuk.github.io/blob/master/_posts/post-images/0-1.jpg?raw=true "aa")
+![image0](https://www.github.com/jinuk/jinuk.github.io/blob/master/_posts/post-images/0-1.jpg?raw=true "aa")  
 저는 원래 웹 개발을 하다가 앱 개발 업무를 맡게 되어서 cordova를 사용 한 후 react-native(RN)를 사용 하던 도중  
 해외 RN 커뮤니티에서 RN과 Flutter를 비교하는 글을 보고 찾아보고 사용해 보게 되었습니다.  
 
   
 ## 2. Flutter!  
 ### 2-1. cordova  
-![image0](https://www.github.com/jinuk/jinuk.github.io/blob/master/_posts/post-images/0-2.png?raw=true "bb")    
+![image0](https://www.github.com/jinuk/jinuk.github.io/blob/master/_posts/post-images/0-2.png?raw=true "bb")      
 저는 원래 웹 개발을 하던 사람이라 앱 개발을 맡은 첫 프로젝트에 cordova를 통해 앱을 만들었습니다.  
 cordova는 단점과 장점이 명확한 플랫폼이었습니다.  
 가장 큰 장점은 html+css+js를 이용하여 앱을 빌드 하기 때문에 언어나 플랫폼에 대한 러닝 커브가 거의 없다시피 하다는 것 입니다.  
