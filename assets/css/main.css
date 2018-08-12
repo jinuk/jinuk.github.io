@@ -126,3 +126,6 @@ main {
 .post-container {
     font-family: "Open Sans", sans-serif;
 }
+img[alt=image0]{
+    width:400px;
+}
