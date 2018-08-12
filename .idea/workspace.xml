@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8c6af8e-f018-4a4e-a042-1b3daa51e1d7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/post-images/0-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/post-images/0-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/post-images/0-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-8-10-Flutter tutorial - 0.Flutter를 사용하게 된 이유.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-8-10-Flutter tutorial - 0.Flutter를 사용하게 된 이유.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -75,8 +71,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-8-10-Flutter tutorial - 0.Flutter를 사용하게 된 이유.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <first_editor relative-caret-position="420">
+                <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -242,12 +238,12 @@
       <updated>1533977661112</updated>
       <workItem from="1533977663541" duration="344000" />
       <workItem from="1533978022222" duration="4518000" />
-      <workItem from="1534057303275" duration="4113000" />
+      <workItem from="1534057303275" duration="4341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8975000" />
+    <option name="totallyTimeSpent" value="9203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="-1057" width="1680" height="1027" extended-state="0" />
@@ -391,8 +387,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-8-10-Flutter tutorial - 0.Flutter를 사용하게 된 이유.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <first_editor relative-caret-position="420">
+            <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
