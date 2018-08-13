@@ -8,7 +8,7 @@ https://flutter.io/get-started/install/ 에 접속합니다.
 SDK 파일을 적절한 위치에 위치시키시면 됩니다.  
 그 후 .bash_profile파일에  
 export PATH=${PATH}:/flutter sdk 경로/flutter/bin  
-텍스트를 추가해 줍니다.
+텍스트를 추가해 줍니다.`********``****`
 
 ## 2. intellij Flutter 플러그인 설치
 intellij에서 Flutter를 편하게 구동하기 위해 Flutter 플러그인을 설치하겠습니다.  
