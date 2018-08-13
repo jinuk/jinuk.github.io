@@ -106,7 +106,7 @@ class MyApp extends StatelessWidget {
   }
 }
 ```  
-![image2](https://www.github.com/jinuk/jinuk.github.io/blob/master/_posts/post-images/2-2.jpg?raw=true "aa")  
+![image2](https://www.github.com/jinuk/jinuk.github.io/blob/master/_posts/post-images/2-2.png?raw=true "aa")  
 일단 Scaffold가 없으니 appBar를 사용 할 수 없습니다.  
 위의 화면을 통해 Scaffold가 텍스트의 색, 크기, 밑줄 등을 정해주고 앱의 바탕 화면을 잡아 주고 있다는 것을 알 수 있습니다.  
   
@@ -128,7 +128,7 @@ class MyApp extends StatelessWidget {
   }
 }
 ```  
-![image2](https://www.github.com/jinuk/jinuk.github.io/blob/master/_posts/post-images/2-3.jpg?raw=true "aa")    
+![image2](https://www.github.com/jinuk/jinuk.github.io/blob/master/_posts/post-images/2-3.png?raw=true "aa")    
 여기서 보면 글씨가 또 달라졌습니다. 그 전의 예제에서의 글씨는 MaterialApp클래스에서 정의 하고 있었다는 것을 알수 있습니다.  
 그리고 추가된 속성 `textDirection: TextDirection.ltr`을 안넣고 빌드하면 오류가 발생합니다.  
 이것도 이전에는 MaterialApp에서 정의 하고 있었다는 것을 알수 있습니다.  

@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8c6af8e-f018-4a4e-a042-1b3daa51e1d7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-8-13-Flutter tutorial - 2.Flutter 기본구조 살펴보기.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/post-images/2-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/post-images/2-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/post-images/2-3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-8-11-Flutter tutorial - 1.Flutter 개발환경 세팅.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-8-11-Flutter tutorial - 1.Flutter 개발환경 세팅.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-8-13-Flutter tutorial - 2.Flutter 기본구조 살펴보기.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-8-13-Flutter tutorial - 2.Flutter 기본구조 살펴보기.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-8-13-Flutter tutorial - 2.Flutter 기본구조 살펴보기.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <first_editor relative-caret-position="537">
+                <caret line="130" column="93" selection-start-line="130" selection-start-column="93" selection-end-line="130" selection-end-column="93" />
               </first_editor>
               <second_editor />
             </state>
@@ -236,25 +232,25 @@
       <workItem from="1533977663541" duration="344000" />
       <workItem from="1533978022222" duration="4518000" />
       <workItem from="1534057303275" duration="5720000" />
-      <workItem from="1534139558124" duration="4683000" />
+      <workItem from="1534139558124" duration="4815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15265000" />
+    <option name="totallyTimeSpent" value="15397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-17" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82111436" visible="true" weight="0.20714286" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82159626" visible="true" weight="0.20714286" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.28436518" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005952" side_tool="true" visible="true" weight="0.32948583" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.17888562" side_tool="true" visible="true" weight="0.20714286" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.17840375" side_tool="true" visible="true" weight="0.20714286" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49940476" visible="true" weight="0.32948583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -445,8 +441,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-8-13-Flutter tutorial - 2.Flutter 기본구조 살펴보기.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <first_editor relative-caret-position="537">
+            <caret line="130" column="93" selection-start-line="130" selection-start-column="93" selection-end-line="130" selection-end-column="93" />
           </first_editor>
           <second_editor />
         </state>
